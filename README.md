@@ -1,6 +1,3 @@
-# Czech-hockey-league---data-analysis
-Analysis of data from Czech hockey league (Tipsport Extraliga) - players and teams statistics
-
 # Czech Extraliga Hockey Analytics Dashboard
 
 This project analyzes data from the Czech ice hockey league (Tipsport Extraliga) and presents interactive team and player statistics using Power BI.
@@ -123,10 +120,12 @@ Tables showing top players from selected teams:
 
 # Tools Used
 
-- **Power Query** – data extraction and transformation  
+- **MS Excel & Power Query** – data extraction and transformation  
 - **Power BI** – data modeling and dashboard creation  
 - **DAX** – measures and calculations  
-- **GitHub** – project repository and documentation  
+- **Python** (Pandas, Matplotlib), planned exploratory and statistical analysis
+- **GitHub** (PostgreSQL), planned advanced queries and data exploration
+- **GitHub** – project repository and documentation
 
 ---
 
@@ -163,7 +162,7 @@ Planned improvements include:
 - Automating data collection and updates for new seasons.
 - Expanding the dataset with more seasons and potentially playoff statistics.
 
-# Skill demonstrated
+# Skills Demonstrated
 
 - Power Query data extraction
 - Data cleaning and transformation
@@ -171,3 +170,5 @@ Planned improvements include:
 - DAX measures
 - Interactive dashboard design
 - Sports data analysis
+- Python (Pandas, Matplotlib), planned exploratory and statistical analysis
+- SQL (PostgreSQL), planned advanced queries and data exploration
